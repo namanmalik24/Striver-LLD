@@ -9,9 +9,7 @@ public class code {
         // A Sparrow can be used wherever a FlyingBird is expected
         FlyingBird sparrow = new Sparrow();
         sparrow.fly();
-
-        // A Penguin cannot be used as a FlyingBird (would violate LSP)
-        // FlyingBird penguin = new Penguin(); // This would be wrong!
+        //lol branch
 
         // But both can be used as Bird
         Bird bird1 = new Sparrow();
