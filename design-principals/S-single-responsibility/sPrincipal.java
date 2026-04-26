@@ -25,6 +25,7 @@ class ShoppingCart{
     }
 
     // this class has more than one responsibility
+    //IF MORE THAN ONE RESPONSIBILITY THEN COUPLING HAPPENS
 
 }
 
