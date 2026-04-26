@@ -1,6 +1,8 @@
 class openClosePrincipal{
     // should be open for extension
     //closed for modification
+    // do not change existing code to add new functionality
+    // use interface and then implement that interface 
     
     
     public static void main(String[] args) {
